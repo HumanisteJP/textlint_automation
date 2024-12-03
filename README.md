@@ -1,0 +1,2 @@
+# textlint_automation
+ゆまにすとで行っているtextlintの自動校正の公開版
